@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\reza8\source\repos\Portfolio\PortfolioMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/reza8/source/repos/Portfolio/PortfolioMVC/Views/Home/Components/LatestArticle/_LatestArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXExhdGVzdEFydGljbGVcX0xhdGVzdEFydGljbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/reza8/source/repos/Portfolio/PortfolioMVC/Views/Home/Components/Projects/_Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFByb2plY3RzXF9Qcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/reza8/source/repos/Portfolio/PortfolioMVC/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/reza8/source/repos/Portfolio/PortfolioMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/reza8/source/repos/Portfolio/PortfolioMVC/Views/Home/Projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/reza8/source/repos/Portfolio/PortfolioMVC/Views/Shared/Error.cshtml]
