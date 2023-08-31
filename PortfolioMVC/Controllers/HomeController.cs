@@ -17,9 +17,22 @@ namespace PortfolioMVC.Controllers
             return View();
         }
 
-        public IActionResult Contact() { 
-            return View();
+        [HttpGet]
+        public IActionResult Contact() {
+            var contact = new Contact();
+            return View(contact);
         }
+
+        //[HttpPost]
+        //public IActionResult Contact(IFormCollection form) {
+        //    return Json(NotFound());
+        //}
+        public IActionResult Contact(Contact contact) 
+        {
+
+            return View(contact);
+        }
+
 
 /*        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
